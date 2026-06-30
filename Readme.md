@@ -1,10 +1,10 @@
-# Keyword Centric Text Analyzer
+# Semantic Search & Retrieval Engine
 
 ## Overview
 
-The Keyword-centric Text Analyzer offers three distinct search options:
+The Semantic Search & Retrieval Engine offers three distinct search options:
 
-- Basic Search functionality in the Keyword-centric Text Analyzer identifies sentences that directly contain the exact form of specified keywords, without any lemmatization applied. This search method is effective for precise matches based on the literal appearance of keywords in the text.
+- Basic Search functionality in this identifies sentences that directly contain the exact form of specified keywords, without any lemmatization applied. This search method is effective for precise matches based on the literal appearance of keywords in the text.
 
 - Root Word Search employs lemmatization to match sentences based on the root forms of the provided keywords. This approach allows for a more comprehensive search, capturing variations of the keywords and enhancing the scope of relevant results.
 
